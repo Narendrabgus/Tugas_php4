@@ -121,7 +121,6 @@
 <!-- Akhir Modal Hapus -->
 
 </td>
-
                         </tr>
                     <?php
                     }
